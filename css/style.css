@@ -1,17 +1,20 @@
 body {
-  background-color: powderblue! important;
+  background-color: peachpuff! important;
 }
 .card {
-  background-color: powderblue;
-  border: 1px solid powderblue;
+  background-color: peachpuff;
+  border: 1px solid peachpuff;
   }
 p
 {font-family:Arial,Helvetica,sans-serif;
   font-size:120%;
-  background-color: powderblue;
+  background-color: peachpuff;
+}
+p.impact {
+  font-family: Impact, blue, sans-serif;
 }
 h1{color:black}
-h2{color:black}
+  h2{color:black}
 h3{color:purple}
 .container-fluid 
 
