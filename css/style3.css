@@ -1,0 +1,24 @@
+#body {
+  background-color:rgb(201, 225, 228);
+}
+.card {
+  background-color:rgb(201, 225, 228);
+  border: 1px solid rgb(201, 225, 228);
+  }
+p
+{font-family:'Times New Roman', Times, serif;
+  font-size:120%;
+  background-color:lightblue;
+  color:purple;
+  text-decoration:underline;
+}
+
+.jumbotron{
+  background-color:powderblue;
+
+}    
+
+  .container-fluid 
+
+  
+  

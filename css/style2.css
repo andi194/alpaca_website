@@ -1,0 +1,25 @@
+#body {
+    background-color:rgb(201, 225, 228);
+  }
+  .card {
+    background-color:rgb(201, 225, 228); 
+    border: 1px solid rgb(201, 225, 228);
+  
+    }
+    .row
+  p
+  {font-family:Arial,Helvetica,sans-serif;
+    font-size:120%;
+    background-color:rgb(201, 225, 228);
+    color:black;
+  }
+  .jumbotron{
+    background-color:powderblue;
+  
+  }
+  .card {
+    display:inline-block;
+  }
+
+    .container-fluid 
+    

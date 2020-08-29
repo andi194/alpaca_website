@@ -1,21 +1,23 @@
-body {
-  background-color: peachpuff! important;
-}
-.card {
-  background-color: peachpuff;
-  border: 1px solid peachpuff;
+#body {
+    background-color:rgb(201, 225, 228) ;
   }
-p
-{font-family:Arial,Helvetica,sans-serif;
-  font-size:120%;
-  background-color: peachpuff;
+  .card {
+    background-color:rgb(201, 225, 228);
+    border: 1px solid rgb(201, 225, 228);
+    }
+  p
+  {font-family:Arial,Helvetica,sans-serif;
+    font-size:120%;
+    background-color: rgb(201, 225, 228);
+    color:black;
+    }
+.h3{
+  font-family:'Times New Roman', Times, serif;
+  color:pink;
 }
-p.impact {
-  font-family: Impact, blue, sans-serif;
+.jumbotron{
+  background-color:powderblue;
+
 }
-h1{color:black}
-  h2{color:black}
-h3{color:purple}
-.container-fluid 
-
-
+   
+    .container-fluid 
